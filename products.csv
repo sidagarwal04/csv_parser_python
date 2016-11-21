@@ -1,0 +1,73 @@
+Id,Vendor,Product Name,Product Code,Unit,Weight,Price
+1,Vendor1,Coriander Leaves (April-Nov),3736,Kg,3,90
+2,Vendor1,Mint Leaves 500 Gm,4371,Grams,500,27.5
+3,Vendor1,Ginger 500 Gm,4356,Grams,500,29.5
+4,Vendor1,Lemon 500 Gm,4365,Grams,500,32.5
+5,Vendor1,Green Chilly,3732,Kg,1,40
+6,Vendor1,Coconut Brown (Husk),3646,Kg,1,20
+7,Vendor1,Garlic Whole,3746,Kg,1,105
+8,Vendor1,Capsicum Green,3725,Kg,1.5,78
+9,Vendor1,Lemon,3759,Kg,1,65
+10,Vendor1,Chinese Cucumber 1 Kg,4681,Kg,1,60
+11,Vendor1,Pumpkin Red,3777,Kg,1.5,20
+12,Vendor1,Bottleguard (Lauki),3719,Kg,1.5,27
+13,Vendor1,Cabbage (April-November),3723,Kg,4,30
+14,Vendor1,Brinjal (Small),3722,Kg,1.5,30
+15,Vendor1,CHICKEN BONELESS BREST,2565,Kg,2,230
+16,Vendor1,CHICKEN TANDOOR 700-800,3593,Kg,5,160
+17,Vendor1,Tomato Table / Salad,3790,Kg,5,35
+18,Vendor1,Coriander Leaves (April-Nov) 500 Gm,4345,Grams,500,45
+19,Vendor1,Carrot (April-November) 500 Gm,4340,Grams,500,13
+20,Vendor1,Brinjal (Big) Bharta,3720,Kg,3,30
+21,Vendor1,Cucumber,3740,Kg,3,24
+22,Vendor1,Ginger,3748,Kg,1,59
+23,Vendor1,Carrot (April-November),3727,Kg,1,26
+24,Vendor1,Green Chilly 500 Gm,4341,Grams,500,20
+25,Vendor2,Coriander Leaves (April-Nov),3736,Kg,3,80
+26,Vendor2,Mint Leaves 500 Gm,4371,Grams,500,27.5
+27,Vendor2,Ginger 500 Gm,4356,Grams,500,30
+28,Vendor2,Lemon 500 Gm,4365,Grams,500,31
+29,Vendor2,Green Chilly,3732,Kg,1,37.5
+30,Vendor2,Coconut Brown (Husk),3646,Kg,1,20
+31,Vendor2,Garlic Whole,3746,Kg,1,105
+32,Vendor2,Capsicum Green,3725,Kg,1.5,78
+33,Vendor2,Lemon,3759,Kg,1,63
+34,Vendor2,Chinese Cucumber 1 Kg,4681,Kg,1,60
+35,Vendor2,Pumpkin Red,3777,Kg,1.5,20
+36,Vendor2,Bottleguard (Lauki),3719,Kg,1.5,24
+37,Vendor2,Cabbage (April-November),3723,Kg,4,30
+38,Vendor2,Brinjal (Small),3722,Kg,1.5,32
+39,Vendor2,CHICKEN BONELESS BREST,2565,Kg,2,231
+40,Vendor2,CHICKEN TANDOOR 700-800,3593,Kg,5,165
+41,Vendor2,Tomato Table / Salad,3790,Kg,5,39
+42,Vendor2,Coriander Leaves (April-Nov) 500 Gm,4345,Grams,500,49
+43,Vendor2,Carrot (April-November) 500 Gm,4340,Grams,500,15
+44,Vendor2,Brinjal (Big) Bharta,3720,Kg,3,29
+45,Vendor2,Cucumber,3740,Kg,3,23
+46,Vendor2,Ginger,3748,Kg,1,56
+47,Vendor2,Carrot (April-November),3727,Kg,1,23
+48,Vendor2,Green Chilly 500 Gm,4341,Grams,500,21
+49,Vendor3,Coriander Leaves (April-Nov),3736,Kg,3,88
+50,Vendor3,Mint Leaves 500 Gm,4371,Grams,500,27.3
+51,Vendor3,Ginger 500 Gm,4356,Grams,500,29.7
+52,Vendor3,Lemon 500 Gm,4365,Grams,500,34.5
+53,Vendor3,Green Chilly,3732,Kg,1,41
+54,Vendor3,Coconut Brown (Husk),3646,Kg,1,15
+55,Vendor3,Garlic Whole,3746,Kg,1,105
+56,Vendor3,Capsicum Green,3725,Kg,1.5,78
+57,Vendor3,Lemon,3759,Kg,1,65
+58,Vendor3,Chinese Cucumber 1 Kg,4681,Kg,1,60
+59,Vendor3,Pumpkin Red,3777,Kg,1.5,20
+60,Vendor3,Bottleguard (Lauki),3719,Kg,1.5,22
+61,Vendor3,Cabbage (April-November),3723,Kg,4,33
+62,Vendor3,Brinjal (Small),3722,Kg,1.5,30
+63,Vendor3,CHICKEN BONELESS BREST,2565,Kg,2,235
+64,Vendor3,CHICKEN TANDOOR 700-800,3593,Kg,5,167
+65,Vendor3,Tomato Table / Salad,3790,Kg,5,38
+66,Vendor3,Coriander Leaves (April-Nov) 500 Gm,4345,Grams,500,41
+67,Vendor3,Carrot (April-November) 500 Gm,4340,Grams,500,12
+68,Vendor3,Brinjal (Big) Bharta,3720,Kg,3,32
+69,Vendor3,Cucumber,3740,Kg,3,24
+70,Vendor3,Ginger,3748,Kg,1,58
+71,Vendor3,Carrot (April-November),3727,Kg,1,24
+72,Vendor3,Green Chilly 500 Gm,4341,Grams,500,21
